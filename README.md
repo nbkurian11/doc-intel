@@ -36,7 +36,7 @@ doc-intel is a retrieval-augmented generation (RAG) app. Instead of pasting a wh
 
 ## Getting started
 
-Setup instructions will be added as the project takes shape. Planned requirements:
+ Planned requirements:
 
 - Python 3.11+
 - A Claude API key, stored in a `.env` file (never committed)
