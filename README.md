@@ -2,7 +2,7 @@
 
 Upload a document and ask questions about it in plain English. Answers are grounded in the document's actual content and cite their sources.
 
-> **Status: in development.** This README describes the project plan. Items are checked off as they are built.
+> **Status: in development.**
 
 ## What it does
 
